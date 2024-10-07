@@ -1,7 +1,6 @@
 #include <iostream>
 #include <stack>
 #include <string>
-#include <unordered_map>
 #include <cmath>
 
 using namespace std;
